@@ -1,0 +1,14 @@
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\bin\Debug\net8.0\PizzaStoreCRUD.exe
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\bin\Debug\net8.0\PizzaStoreCRUD.deps.json
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\bin\Debug\net8.0\PizzaStoreCRUD.runtimeconfig.json
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\bin\Debug\net8.0\PizzaStoreCRUD.dll
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\bin\Debug\net8.0\PizzaStoreCRUD.pdb
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\obj\Debug\net8.0\PizzaStoreCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\obj\Debug\net8.0\PizzaStoreCRUD.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\obj\Debug\net8.0\PizzaStoreCRUD.AssemblyInfo.cs
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\obj\Debug\net8.0\PizzaStoreCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\obj\Debug\net8.0\PizzaStoreCRUD.dll
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\obj\Debug\net8.0\refint\PizzaStoreCRUD.dll
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\obj\Debug\net8.0\PizzaStoreCRUD.pdb
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\obj\Debug\net8.0\PizzaStoreCRUD.genruntimeconfig.cache
+C:\Users\Amir\source\repos\PizzaStoreCRUD\PizzaStoreCRUD\obj\Debug\net8.0\ref\PizzaStoreCRUD.dll
