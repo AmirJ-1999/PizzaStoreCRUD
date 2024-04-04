@@ -40,7 +40,7 @@ namespace PizzaStoreCRUD
                 Console.WriteLine("10. Slet en ordre.");
                 Console.WriteLine("11. Opdatere en ordre.");
                 Console.WriteLine("12. Hvis alle ordre.");
-                Console.WriteLine("13. Forlad.");
+                Console.WriteLine("13. Forlad programmet.");
 
                 Console.Write("Vælg en mulighed: ");
                 int choice = Convert.ToInt32(Console.ReadLine());
